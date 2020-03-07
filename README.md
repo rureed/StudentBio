@@ -1,2 +1,2 @@
 # StudentBio
-student-bio-assitnemnt
+student-bio-assignemnt
